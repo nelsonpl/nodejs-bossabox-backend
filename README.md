@@ -5,20 +5,20 @@ Desafio proposto pela Bossabox para Desenvolvedores Back-End.
 [link para o desafio](https://www.notion.so/Dev-Back-End-04cfd92927a045f6914ab1e2c9002c02)
 
 
-![](https://img.shields.io/badge/node-success-brightgreen.svg)
-![](https://img.shields.io/badge/test-success-brightgreen.svg)
-![](https://img.shields.io/badge/build-success-brightgreen.svg)
+![node-success](https://img.shields.io/badge/node-success-brightgreen.svg)
+![test-success](https://img.shields.io/badge/test-success-brightgreen.svg)
+![build-success](https://img.shields.io/badge/build-success-brightgreen.svg)
 
 # Stack
 
-![](https://img.shields.io/badge/node_12-✓-blue.svg)
-![](https://img.shields.io/badge/express-✓-blue.svg)
-![](https://img.shields.io/badge/@nestjs-✓-blue.svg)
-![](https://img.shields.io/badge/mongoose-✓-blue.svg)
-![](https://img.shields.io/badge/swagger-✓-blue.svg)
-![](https://img.shields.io/badge/passport-✓-blue.svg)
-![](https://img.shields.io/badge/jest-✓-blue.svg)
-![](https://img.shields.io/badge/supertest-✓-blue.svg)
+![node](https://img.shields.io/badge/node_12-✓-blue.svg)
+![express](https://img.shields.io/badge/express-✓-blue.svg)
+![nestjs](https://img.shields.io/badge/@nestjs-✓-blue.svg)
+![mongoose](https://img.shields.io/badge/mongoose-✓-blue.svg)
+![swagger](https://img.shields.io/badge/swagger-✓-blue.svg)
+![passport](https://img.shields.io/badge/passport-✓-blue.svg)
+![jest](https://img.shields.io/badge/jest-✓-blue.svg)
+![supertest](https://img.shields.io/badge/supertest-✓-blue.svg)
 
 # Estrutura do projeto
 
